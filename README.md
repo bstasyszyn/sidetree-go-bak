@@ -1,2 +1,2 @@
 # sidetree-go
-Sidetree client API for Go
+Sidetree client library for Go.
